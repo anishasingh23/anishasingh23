@@ -1,5 +1,8 @@
 <h1>About me! 👻🫡</h1>
-<p>Just another human trying to teach machines how to think (because apparently, that’s easier than explaining code to people). I spend my days wrangling neural networks, convincing C++ to behave, and making Python do magic.  I dabble in AI, ML, and deep learning—basically, I train models to recognize things better than I recognize people from my own contacts list. Occasionally, I experiment with Flutter, because why not add another layer of complexity to my life?  When I’m not making machines smarter, I’m probably debugging something I swore was working five minutes ago.</p>
+<p>Just another human trying to teach machines how to think (because apparently, that’s easier than explaining code to people). I spend my days wrangling neural networks, convincing C++ to behave, and making Python do magic. 
+  I dabble in AI, ML, and deep learning—basically, I train models to recognize things better than I recognize people from my own contacts list.
+  Occasionally, I experiment with Flutter, because why not add another layer of complexity to my life? 
+  When I’m not making machines smarter, I’m probably debugging something I swore was working five minutes ago.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
