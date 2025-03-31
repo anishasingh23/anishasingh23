@@ -1,5 +1,5 @@
 <h1>About me! 👻🫡</h1>
-<p>Just another human trying to teach machines how to think (because apparently, that’s easier than explaining code to people). I spend my days wrangling neural networks, convincing C++ to behave, and making Python do magic. 
+<p>Just another human trying to teach machines how to think (because apparently, that’s easier than explaining code to people). I spend my days wrangling neural networks, convincing C++ to behave, and making Python do magic. </p>
   I dabble in AI, ML, and deep learning—basically, I train models to recognize things better than I recognize people from my own contacts list.
   Occasionally, I experiment with Flutter, because why not add another layer of complexity to my life? 
   When I’m not making machines smarter, I’m probably debugging something I swore was working five minutes ago.</p>
